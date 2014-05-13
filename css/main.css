@@ -2,6 +2,14 @@ body {
   background: url('../img/background-menu.png');
   background-repeat: no-repeat;
 }
+
+#screensaver {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index:99;
+}
+
 .container {
   width: 1920px;
 }
