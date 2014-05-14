@@ -23,6 +23,10 @@ body {
   background-repeat: no-repeat;
 }
 
+img {
+  -webkit-user-drag: none;
+}
+
 #screensaver {
   position: absolute;
   top: 0;
